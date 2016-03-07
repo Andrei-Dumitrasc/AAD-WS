@@ -1,0 +1,15 @@
+{
+  "name": "AAD-WS",
+  "homepage": "https://github.com/Andrei-Dumitrasc/AAD-WS",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
